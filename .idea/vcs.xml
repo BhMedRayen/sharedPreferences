@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecycleView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/list/ListView - Copie" vcs="Git" />
+  </component>
+</project>
